@@ -3,8 +3,6 @@ title: Home
 layout: page
 ---
 
-A Home Page
-
 <h1>Test Title</h1>
 
 <ul>
