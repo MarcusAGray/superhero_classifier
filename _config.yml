@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Marcus Gray
+description:
+
+author:
+  name: Marcus Gray
